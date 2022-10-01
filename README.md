@@ -1,6 +1,6 @@
-###_*A list of my commonly used Git commands*_
+_*A list of my commonly used Git commands*_
 
-##_By Hafiz Muhammad Rayyan_
+#By Hafiz Muhammad Rayyan
 
 
 
